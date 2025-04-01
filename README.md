@@ -53,6 +53,6 @@ License
 Distributed under the MIT License. See LICENSE for more information.
 
 Contact
-Nimsarani - [Your Contact Information]
+Nimsarani - nimsaraniofficial@GMAIL.COM
 
 Project Link: https://github.com/Nimsarani/Coffee-Shop-Managing-Website
